@@ -4,12 +4,19 @@
 Asterisk Mysql replication
 
 ## Table of Contents
-[ec2-setup.md](#ai-prompts-for-EC2-provisioning)  
+1. [ec2-setup.md](#ai-prompts-for-EC2-provisioning)  
 
+- [1.1](#1--1)
+- [1.2](#1--2)
 
 ├── ecr-ecs-deployment.md   # Prompts for container pipeline │   └── cloudwatch-alerts.md    # Prompts for monitoring alerts ├── ci-cd/ │   ├── github-actions.yaml     # Example workflows │   └── chatgpt-prompts.md      # Prompts to generate CI/CD scripts └── README.md
 
 ├── ecr-ecs-deployment.md   # Prompts for container pipeline │   └── cloudwatch-alerts.md    # Prompts for monitoring alerts ├── ci-cd/ │   ├── github-actions.yaml     # Example workflows │   └── chatgpt-prompts.md      # Prompts to generate CI/CD scripts └── README.md
+
+├── ecr-ecs-deployment.md   # Prompts for container pipeline │   └── cloudwatch-alerts.md    # Prompts for monitoring alerts ├── ci-cd/ │   ├── github-actions.yaml     # Example workflows │   └── chatgpt-prompts.md      # Prompts to generate CI/CD scripts └── README.md
+
+├── ecr-ecs-deployment.md   # Prompts for container pipeline │   └── cloudwatch-alerts.md    # Prompts for monitoring alerts ├── ci-cd/ │   ├── github-actions.yaml     # Example workflows │   └── chatgpt-prompts.md      # Prompts to generate CI/CD scripts └── README.md
+
 
 ## AI Prompts for EC2 provisioning
 
